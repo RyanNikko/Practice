@@ -1,6 +1,6 @@
 Ryan Nicholas A. Taino
 
-How to Run
+How to Run:
 
 1.) Click "Run/Debug" or "Local Windows Debugger"
 
